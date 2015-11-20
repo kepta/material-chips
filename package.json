@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/kepta/material-chips/issues"
   },
-  "homepage": "https://github.com/kepta/material-chips#readme"
+  "homepage": "https://github.com/kepta/material-chips#readme",
+  "dependencies": {
+    "eslint": "^1.9.0"
+  }
 }
